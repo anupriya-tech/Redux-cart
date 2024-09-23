@@ -1,0 +1,6 @@
+[
+ 
+  {"index": 1,"name": "shirt", "price": 40, "img": "../src/shirt.webp"},
+  {"index": 2,"name": "pant", "price": 60, "img": "../src/pant.webp"},
+  {"index": 3,"name": "jacket", "price": 100, "img": "../src/jaket.jpeg"}
+]
